@@ -1,7 +1,5 @@
-```markdown
-# NumPy Code Exercises
-
 This repository contains a set of NumPy exercises that cover various array creation, manipulation, and logic functions. The exercises are designed to help you practice and enhance your skills in using NumPy, a powerful library for numerical computations in Python.
+```markdown
 
 ## Getting Started
 
